@@ -2,3 +2,8 @@
 	path = xmarts/hr-payroll-mxn
 	url = git@github.com:xmarts/hr-payroll-mxn.git
 	branch = 14.0-dev-pog
+
+[submodule "xma_payslip_payment"]
+	path = xma_payslip_payment
+	url = git@github.com:xmarts/xma_payslip_payment.git
+	branch = 14.0
