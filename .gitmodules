@@ -7,3 +7,8 @@
 	path = xma_payslip_payment
 	url = git@github.com:xmarts/xma_payslip_payment.git
 	branch = 14.0
+
+[submodule "xmarts/ks-dashboard-ninja"]
+	path = xmarts/ks-dashboard-ninja
+	url = git@github.com:xmarts/ks-dashboard-ninja.git
+	branch = 14.0
